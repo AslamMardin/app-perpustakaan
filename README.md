@@ -13,43 +13,43 @@ Sistem Informasi Perpustakaan (SIPERPUS) saya buat untuk memudahkan para pegawai
 
 1. Homepage
 
-    ![Homepage](readme_img/1.png)
+    ![Homepage](readme/1.png)
 
 2. Katalog Buku
 
-    ![Katalog Buku](readme_img/2.png)
+    ![Katalog Buku](readme/2.png)
 
 3. Detail Buku
 
-    ![Detail Buku](readme_img/3.png)
+    ![Detail Buku](readme/3.png)
 
 4. Pengumuman dan Informasi
 
-    ![Pengumuman dan Informasi](readme_img/4.png)
+    ![Pengumuman dan Informasi](readme/4.png)
 
 5. Detail Pengumuman & Informasi
 
-    ![Pengumuman dan Informasi](readme_img/5.png)
+    ![Pengumuman dan Informasi](readme/5.png)
 
 6. Dashboard Pegawai
 
-    ![Dashboard Pegawai](readme_img/6.png)
+    ![Dashboard Pegawai](readme/6.png)
 
 7. Manajemen Buku
 
-    ![Manajemen Buku](readme_img/7.png)
+    ![Manajemen Buku](readme/7.png)
 
 8. Tambah Pengumuman (CKEditor)
 
-    ![Tambah Pengumuman](readme_img/8.png)
+    ![Tambah Pengumuman](readme/8.png)
 
 9. Manajemen Peminjaman & Pengembalian
 
-    ![Manajemen Peminjaman & Pengembalian](readme_img/9.png)
+    ![Manajemen Peminjaman & Pengembalian](readme/9.png)
 
 10. Manajemen Pegawai (2 User Pegawai Biasa & Admin)
 
-    ![Manajemen Pegawai](readme_img/10.png)
+    ![Manajemen Pegawai](readme/10.png)
 
 ---
 

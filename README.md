@@ -4,7 +4,7 @@ Sistem Informasi Perpustakaan (SIPERPUS) saya buat untuk memudahkan para pegawai
 
 ## Teknologi dan Tool yang digunakan :alien:
 
--   Laravel 5.8
+-   Laravel 12
 -   Spatie
 -   CKeditor
 -   etc
